@@ -1,3 +1,3 @@
-# iNTERMIDATE MODULE
+# INTERMIDATE MODULE
 
 Intermidate topics of PHP are in this branch 
