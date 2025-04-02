@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# PHP BASICS
-The basic module covers the basic topics of PHP
-=======
-# PHP INTERMIDATE 
+# PHP Learning
 
-Intermidate topics of PHP are in this branch 
->>>>>>> 70d5fbabb36129dfc4959a1cffdd5b73294c9e30
+It covers all the basic and Intermidate topics of PHP according to my learning 
