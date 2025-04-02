@@ -1,2 +1,2 @@
-# phpLearning
-In this repository I'm going to update whatever I am learning about PHP 
+# PHP BASICS
+The basic module covers the basic topics of PHP
