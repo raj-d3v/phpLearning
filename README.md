@@ -1,2 +1,3 @@
-# phpLearning
-In this repository I'm going to update whatever I am learning about PHP 
+# iNTERMIDATE MODULE
+
+Intermidate topics of PHP are in this branch 
